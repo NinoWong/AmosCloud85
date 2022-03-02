@@ -100,4 +100,4 @@ public class AmosCloud85{
 		return choose;
 	}
 
-}
+} 
